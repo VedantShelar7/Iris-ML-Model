@@ -2,6 +2,7 @@
 
 A basic machine learning model that classifies Iris flowers using petal and sepal data.  
 Built with Python and scikit-learn as part of my ML learning journey.
+I have been learning neural networks and deep learning so to have an experience in training a machine model i used this classic dataset.
 
 ##  What it does
 
