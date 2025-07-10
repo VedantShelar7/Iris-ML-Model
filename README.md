@@ -16,5 +16,4 @@ Achieved 100% accuracy on the test set — classic dataset, but good practice.
 - pandas
 
 
-
-> First step in building real ML skills — more custom  projects coming up.
+First step in building real ML skills — more custom  projects coming up.
